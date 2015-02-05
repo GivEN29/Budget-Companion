@@ -32,7 +32,8 @@ namespace BudgetButikker
         string workDirectoryAppData = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + "\\Budget Companion";
         string[] strCategorys;
         /// <summary>
-        /// 
+        /// Read The settings file and set the path for config files
+        /// Read the category file and set the combobox = every category
         /// </summary>
         private void readSettingsAndCategoryFiles()
         {

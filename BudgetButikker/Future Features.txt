@@ -1,0 +1,2 @@
+En måde så man ikke behøver at åbne csv filerne fra banken af og derfor bare
+bliver kopiret direkte til en excel soteret.
